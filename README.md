@@ -1,7 +1,7 @@
 
-# IMASSP-TL's Website
+# IMAS-SP Chinese Translation Project Website
 
-Visit **[imas-sp.site](http://imas-sp.site)** 🚀
+Visit **[IMASSP-TL](https://imas-sp.site/)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
