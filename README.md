@@ -2,7 +2,7 @@
 # IMAS-SP Chinese Translation Project Website
 
 <<<<<<< HEAD
-Visit **[IMASSP-TL-COM](https://imas-sp.com/)** 🚀
+Visit **[imas-sp.com](http://imas-sp.com)** 🚀
 Visit **[IMASSP-TL-CN](https://imas-sp.cn/)** 🚀
 Visit **[IMASSP-TL-SITE](https://imas-sp.site/)** 🚀
 Visit **[Neptunia.top](https://neptunia.top/imas-sp-sch-tl/)** 🚀
