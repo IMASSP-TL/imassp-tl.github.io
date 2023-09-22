@@ -2,7 +2,7 @@
 title: 内容求助
 nav:
   order: 4
-  tooltip: 内容求助
+  tooltip: DLC内容求助
 header: images/header-background.jpg
 footer: images/header-background.jpg
 header-dark: false
