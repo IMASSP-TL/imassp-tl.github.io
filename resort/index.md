@@ -17,7 +17,7 @@ footer-dark: false
 
 ### Idol Drama——Path: /didora/ 
 
-> 已收集完全，由汉化组成员[Aaron_nep](https://neptunia.top/imas-sp-sch-tl/members/Aaron_nep.html)、[如月咏星](https://neptunia.top/imas-sp-sch-tl/members/%E5%A6%82%E6%9C%88%E5%92%8F%E6%98%9F.html)、[RainbowC](https://neptunia.top/imas-sp-sch-tl/members/RainbowC.html)合购，汉化组成员[22](https://neptunia.top/imas-sp-sch-tl/members/22.html)为其余DLC收集提供了支持。
+> 已收集完全，由汉化组成员[Aaron_nep](https://imas-sp.com/members/Aaron_nep.html)、[如月咏星](https://imas-sp.com/members/%E5%A6%82%E6%9C%88%E5%92%8F%E6%98%9F.html)、[RainbowC](https://imas-sp.com/members/RainbowC.html)合购，汉化组成员[22](https://imas-sp.com/members/22.html)为其余DLC收集提供了支持。
 
 - ~~アイドラ：家族の休日 (Catalog 8)~~
 - ~~アイドラ：天海春香の分裂 (Catalog 10)~~
