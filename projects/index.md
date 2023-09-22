@@ -49,7 +49,7 @@ gantt
     staff's mail 28/28 : sm,0,100
     section DLC Items
     歌曲服饰 157/162 : di,0,96
-    广播剧 3/11 : drama,0,27
+    广播剧 4/11 : drama,0,36
     section DLC Mail
     天海春香 137/137 : har,0,100
     如月千早 137/137 : chi,0,100
