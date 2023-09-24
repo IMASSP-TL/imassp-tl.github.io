@@ -29,7 +29,7 @@ gantt
     axisFormat %s%%
 
 	section 主线剧情
-    完美之日 254/409 : ps,0,62
+    完美之日 255/409 : ps,0,62
     惊奇之星 142/404 : ws,0,35
     思念之月 143/404 : mm,0,35
     section Fan's Mail
