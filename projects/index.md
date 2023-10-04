@@ -30,7 +30,7 @@ gantt
 
 	section 主线剧情
     完美之日 265/409 : ps,0,64
-    惊奇之星 147/404 : ws,0,36
+    惊奇之星 149/404 : ws,0,37
     思念之月 143/404 : mm,0,35
     section Fan's Mail
     天海春香 20/20 : har,0,100
@@ -45,7 +45,7 @@ gantt
     section 公用内容
     对话 29/29 : com,0,100
     图片UI 87/100 : iu,0,87
-    系统UI 1844/1875: su,0,98
+    系统UI 1858/1875: su,0,98
     staff's mail 28/28 : sm,0,100
     section DLC Items
     歌曲服饰 157/162 : di,0,96
