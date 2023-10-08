@@ -29,7 +29,7 @@ gantt
     axisFormat %s%%
 
 	section 主线剧情
-    完美之日 270/409 : ps,0,64
+    完美之日 271/409 : ps,0,64
     惊奇之星 155/404 : ws,0,38
     思念之月 143/404 : mm,0,35
     section Fan's Mail
@@ -49,7 +49,7 @@ gantt
     staff's mail 28/28 : sm,0,100
     section DLC Items
     歌曲服饰 157/162 : di,0,96
-    广播剧 4/11 : drama,0,36
+    广播剧 5/11 : drama,0,45
     section DLC Mail
     天海春香 137/137 : har,0,100
     如月千早 137/137 : chi,0,100
@@ -65,7 +65,7 @@ gantt
     如月千早 : chi,0,100
     萩原雪步 : yuk,0,100
     水濑伊织 : ior,0,10
-    高槻弥生 : yay,0,95
+    高槻弥生 : yay,0,96
     三浦梓 : azu,0,1
     菊地真 : mak,0,1
     双海亚美&真美 : mam,0,1
