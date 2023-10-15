@@ -17,7 +17,7 @@ footer-dark: false
 
 ## 成员总览
 
-{% include portrait-wrapper-start.html}
+{% include portrait-wrapper-alignstart.html}
 
 {% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
 {% include list.html data="members" component="portrait" filters="role: chjptl" style="small" %}
