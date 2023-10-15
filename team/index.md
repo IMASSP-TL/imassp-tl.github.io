@@ -26,7 +26,7 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: ^ea" style="small" %}
 
 
-{% include sectionalignleft.html %}
+{% include section.html %}
 ### 组长
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
