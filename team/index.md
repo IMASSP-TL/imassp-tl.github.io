@@ -19,6 +19,7 @@ footer-dark: false
 
 {% include portrait-wrapper-alignstart.html}
 
+
 {% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
 {% include list.html data="members" component="portrait" filters="role: chjptl" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^jptl" style="small" %}
