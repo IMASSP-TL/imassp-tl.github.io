@@ -11,7 +11,20 @@ footer-dark: false
 
 # {% include icon.html icon="fa-solid fa-users" %}汉化组成员
 
-偶像大师SP汉化组目前成员信息
+偶像大师SP汉化组成员信息
+
+{% include section.html %}
+
+## 成员总览
+
+{% include list.html data="members" component="portrait" filters="role: pl" %}
+{% include list.html data="members" component="portrait" filters="role: chjptl" %}
+{% include list.html data="members" component="portrait" filters="role: ^jptl" %}
+{% include list.html data="members" component="portrait" filters="role: pr" %}
+{% include list.html data="members" component="portrait" filters="role: tp" %}
+{% include list.html data="members" component="portrait" filters="role: art" %}
+{% include list.html data="members" component="portrait" filters="role: editor" %}
+{% include list.html data="members" component="portrait" filters="role: ^ea" %}
 
 {% include section.html %}
 
@@ -57,3 +70,5 @@ footer-dark: false
 {% include portrait.html lookup="RainbowC" %}
 
 ---
+
+{% include section.html %}
