@@ -11,7 +11,7 @@ footer-dark: false
 
 # {% include icon.html icon="fa-solid fa-users" %}汉化组成员
 
-偶像大师SP汉化组成员信息
+偶像大师SP汉化组目前成员信息
 
 {% include section.html %}
 
@@ -30,44 +30,44 @@ footer-dark: false
 
 ### 组长
 
-{% include portrait.html lookup="Aaron_nep" %}
+{% include portrait.html lookup="Aaron_nep" style="small" %}
 
 ---
 
 ### 翻译&校对
 
-{% include portrait.html lookup="dd" %}
-{% include portrait.html lookup="骨气犬" %}
-{% include portrait.html lookup="如月咏星" %}
-{% include portrait.html lookup="LankerCN" %}
-{% include portrait.html lookup="盐煎肘子" %}
+{% include portrait.html lookup="dd" style="small" %}
+{% include portrait.html lookup="骨气犬" style="small" %}
+{% include portrait.html lookup="如月咏星" style="small" %}
+{% include portrait.html lookup="LankerCN" style="small" %}
+{% include portrait.html lookup="盐煎肘子" style="small" %}
 
 ---
 
 ### 程序&测试
 
-{% include portrait.html lookup="Aaron_nep" %}
-{% include portrait.html lookup="怪起来了" %}
-{% include portrait.html lookup="22" %}
+{% include portrait.html lookup="Aaron_nep" style="small" %}
+{% include portrait.html lookup="怪起来了" style="small" %}
+{% include portrait.html lookup="22" style="small" %}
 
 ---
 
 ### 美工编辑
 
-{% include portrait.html lookup="星仙人" %}
-{% include portrait.html lookup="津渡" %}
-{% include portrait.html lookup="怪起来了" %}
+{% include portrait.html lookup="星仙人" style="small" %}
+{% include portrait.html lookup="津渡" style="small" %}
+{% include portrait.html lookup="怪起来了" style="small" %}
 
 ---
 
 ### 文本编辑
 
-{% include portrait.html lookup="瑟雭" %}
-{% include portrait.html lookup="吉良吉影" %}
-{% include portrait.html lookup="枳花伍" %}
-{% include portrait.html lookup="Swift_Xp" %}
-{% include portrait.html lookup=")๑╹ᆺ╹(" %}
-{% include portrait.html lookup="RainbowC" %}
+{% include portrait.html lookup="瑟雭" style="small" %}
+{% include portrait.html lookup="吉良吉影" style="small" %}
+{% include portrait.html lookup="枳花伍" style="small" %}
+{% include portrait.html lookup="Swift_Xp" style="small" %}
+{% include portrait.html lookup=")๑╹ᆺ╹(" style="small" %}
+{% include portrait.html lookup="RainbowC" style="small" %}
 
 ---
 
