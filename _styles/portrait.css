@@ -2,10 +2,6 @@
   display: contents;
 }
 
-.portrait-wrapper-align {
-  text-align: left;
-}
-
 .portrait {
   position: relative;
   display: inline-flex;
@@ -17,7 +13,6 @@
   width: 175px;
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
-  text-align: center;
 }
 
 .portrait[data-style=small] {
