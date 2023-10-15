@@ -17,6 +17,8 @@ footer-dark: false
 
 ## 成员总览
 
+{% include portrait-wrapper-start.html}
+
 {% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
 {% include list.html data="members" component="portrait" filters="role: chjptl" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^jptl" style="small" %}
@@ -25,6 +27,8 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: art" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: editor" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^ea" style="small" %}
+
+{% include portrait-wrapper-alignend.html}
 
 {% include section.html %}
 
