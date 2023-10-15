@@ -11,9 +11,9 @@ footer-dark: false
 
 # {% include icon.html icon="fa-solid fa-users" %}汉化组成员
 
-偶像大师SP汉化组目前成员信息
+偶像大师SP汉化项目组成员信息
 
-{% include section-alignleft.html %}
+{% include section.html %}
 ## 成员总览
 
 {% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
@@ -26,7 +26,7 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: ^ea" style="small" %}
 
 
-{% include section-alignleft.html %}
+{% include section.html %}
 ### 组长
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
