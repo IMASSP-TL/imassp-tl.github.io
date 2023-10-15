@@ -1,0 +1,38 @@
+<!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - wrap each table in div to allow for scrolling
+  - filter out blank sections
+-->
+
+{% assign content = include.content %}
+
+{% assign content = content
+  | regex_replace: "<table>(.*?)</table>",
+    "<div class='table-wrapper'><table>\1</table></div>"
+%}
+
+{% assign sections = content | split: "<!-- section break -->" | array_filter %}
+
+{% for section in sections %}
+  {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
+  {% assign backgroundalignleft = section
+    | regex_scan: "backgroundalignleft: (.*);"
+    | default: nil
+  %}
+  {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
+
+  <section
+    class="backgroundalignleft"
+    data-size="{{ size }}"
+    {% if dark == "true" or dark == "false" %}
+      data-dark="{{ dark }}"
+    {% endif %}
+    {% if backgroundalignleft %}
+      style="--image: url('{{ backgroundalignleft | relative_url }}')"
+    {% endif %}
+  >
+    {{ section }}
+  </section>
+{% endfor %}

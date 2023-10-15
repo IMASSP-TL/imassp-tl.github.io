@@ -14,7 +14,6 @@ footer-dark: false
 偶像大师SP汉化组目前成员信息
 
 {% include section.html %}
-
 ## 成员总览
 
 {% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
@@ -26,8 +25,8 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: editor" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: ^ea" style="small" %}
 
-{% include section.html %}
 
+{% include sectionalignleft.html %}
 ### 组长
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
