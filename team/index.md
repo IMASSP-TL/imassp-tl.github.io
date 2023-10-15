@@ -47,8 +47,8 @@ footer-dark: false
 ### 程序&测试
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
-{% include portrait.html lookup="怪起来了" style="small" %}
 {% include portrait.html lookup="22" style="small" %}
+{% include portrait.html lookup="怪起来了" style="small" %}
 
 ---
 
