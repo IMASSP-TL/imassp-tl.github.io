@@ -31,8 +31,6 @@ footer-dark: false
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
 
----
-
 ### 翻译&校对
 
 {% include portrait.html lookup="dd" style="small" %}
@@ -41,23 +39,17 @@ footer-dark: false
 {% include portrait.html lookup="LankerCN" style="small" %}
 {% include portrait.html lookup="盐煎肘子" style="small" %}
 
----
-
 ### 程序&测试
 
 {% include portrait.html lookup="Aaron_nep" style="small" %}
 {% include portrait.html lookup="22" style="small" %}
 {% include portrait.html lookup="怪起来了" style="small" %}
 
----
-
 ### 美工编辑
 
 {% include portrait.html lookup="星仙人" style="small" %}
 {% include portrait.html lookup="津渡" style="small" %}
 {% include portrait.html lookup="怪起来了" style="small" %}
-
----
 
 ### 文本编辑
 
@@ -67,7 +59,5 @@ footer-dark: false
 {% include portrait.html lookup="Swift_Xp" style="small" %}
 {% include portrait.html lookup=")๑╹ᆺ╹(" style="small" %}
 {% include portrait.html lookup="RainbowC" style="small" %}
-
----
 
 {% include section.html %}
