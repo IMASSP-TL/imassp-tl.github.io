@@ -6,7 +6,7 @@
   - filter out blank sections
 -->
 
-{% assign content = include.content %}
+{% assign content = include.content-alignleft %}
 
 {% assign content = content
   | regex_replace: "<table>(.*?)</table>",
