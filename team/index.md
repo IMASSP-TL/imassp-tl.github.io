@@ -29,45 +29,39 @@ footer-dark: false
 {% include section.html %}
 ### 组长
 
-<div class="portrait-wrapper-alignleft">
 {% include portrait.html lookup="Aaron_nep" style="small" %}
-</div>
 
 ### 翻译&校对
 
-<div class="portrait-wrapper-alignleft">
 {% include portrait.html lookup="dd" style="small" %}
 {% include portrait.html lookup="骨气犬" style="small" %}
 {% include portrait.html lookup="如月咏星" style="small" %}
 {% include portrait.html lookup="LankerCN" style="small" %}
 {% include portrait.html lookup="盐煎肘子" style="small" %}
-</div>
 
 ### 程序&测试
 
-<div class="portrait-wrapper-alignleft">
 {% include portrait.html lookup="Aaron_nep" style="small" %}
 {% include portrait.html lookup="22" style="small" %}
 {% include portrait.html lookup="怪起来了" style="small" %}
-</div>
 
 ### 美工编辑
 
-<div class="portrait-wrapper-alignleft">
 {% include portrait.html lookup="星仙人" style="small" %}
 {% include portrait.html lookup="津渡" style="small" %}
 {% include portrait.html lookup="怪起来了" style="small" %}
-</div>
 
 ### 文本编辑
 
-<div class="portrait-wrapper-alignleft">
 {% include portrait.html lookup="瑟雭" style="small" %}
 {% include portrait.html lookup="吉良吉影" style="small" %}
 {% include portrait.html lookup="枳花伍" style="small" %}
 {% include portrait.html lookup="Swift_Xp" style="small" %}
+{% include portrait.html lookup="22" style="small" %}
+{% include portrait.html lookup="Aaron_nep" style="small" %}
+{% include portrait.html lookup="星仙人" style="small" %}
+{% include portrait.html lookup="津渡" style="small" %}
 {% include portrait.html lookup=")๑╹ᆺ╹(" style="small" %}
 {% include portrait.html lookup="RainbowC" style="small" %}
-</div>
 
 {% include section.html %}
