@@ -1,24 +1,24 @@
 <!--
-  modify main content of page:
+  modify main content-alignleft of page:
   - add section breaks
   - attach section properties
   - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
 
-{% assign content = include.content-alignleft %}
+{% assign content-alignleft = include.content-alignleft %}
 
-{% assign content = content
+{% assign content-alignleft = content-alignleft
   | regex_replace: "<table>(.*?)</table>",
     "<div class='table-wrapper'><table>\1</table></div>"
 %}
 
-{% assign sections = content | split: "<!-- section break -->" | array_filter %}
+{% assign sections = content-alignleft | split: "<!-- section break -->" | array_filter %}
 
 {% for section in sections %}
   {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
-  {% assign background = section
-    | regex_scan: "background: (.*);"
+  {% assign background-alignleft = section
+    | regex_scan: "background-alignleft: (.*);"
     | default: nil
   %}
   {% assign size = section | regex_scan: "size: (.*);" | default: "page" %}
@@ -29,8 +29,8 @@
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"
     {% endif %}
-    {% if background %}
-      style="--image: url('{{ background | relative_url }}')"
+    {% if background-alignleft %}
+      style="--image: url('{{ background-alignleft | relative_url }}')"
     {% endif %}
   >
     {{ section }}
