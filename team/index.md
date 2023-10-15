@@ -21,7 +21,7 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: chjptl" %}
 {% include list.html data="members" component="portrait" filters="role: ^jptl" %}
 {% include list.html data="members" component="portrait" filters="role: pr" %}
-{% include list.html data="members" component="portrait" filters="role: tp" %}
+{% include list.html data="members" component="portrait" filters="role: tester" %}
 {% include list.html data="members" component="portrait" filters="role: art" %}
 {% include list.html data="members" component="portrait" filters="role: editor" %}
 {% include list.html data="members" component="portrait" filters="role: ^ea" %}
