@@ -1,5 +1,8 @@
 .portrait-wrapper-alignleft {
   text-align: center;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, 200px);
 }
 
 .portrait-wrapper {
