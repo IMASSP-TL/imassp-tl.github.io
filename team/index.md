@@ -15,48 +15,12 @@ footer-dark: false
 
 {% include section.html %}
 
-### 组长
-
-{% include portrait.html lookup="Aaron_nep" %}
-
-{% include section.html %}
-
-### 翻译&校对
-
-{% include portrait.html lookup="dd" %}
-{% include portrait.html lookup="骨气犬" %}
-{% include portrait.html lookup="如月咏星" %}
-{% include portrait.html lookup="LankerCN" %}
-{% include portrait.html lookup="盐煎肘子" %}
-
-{% include section.html %}
-
-### 程序&测试
-
-{% include portrait.html lookup="Aaron_nep" %}
-{% include portrait.html lookup="怪起来了" %}
-{% include portrait.html lookup="22" %}
-
-{% include section.html %}
-
-### 美工编辑
-
-{% include portrait.html lookup="星仙人" %}
-{% include portrait.html lookup="津渡" %}
-{% include portrait.html lookup="怪起来了" %}
-
-{% include section.html %}
-
-### 文本编辑
-
-{% include portrait.html lookup="瑟雭" %}
-{% include portrait.html lookup="Swift_Xp" %}
-{% include portrait.html lookup="枳花伍" %}
-{% include portrait.html lookup="RainbowC" %}
-{% include portrait.html lookup="吉良吉影" %}
-{% include portrait.html lookup=")๑╹ᆺ╹(" %}
-{% include portrait.html lookup="星仙人" %}
-{% include portrait.html lookup="津渡" %}
-
-{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: pl" %}
+{% include list.html data="members" component="portrait" filters="role: chjptl" %}
+{% include list.html data="members" component="portrait" filters="role: ^jptl" %}
+{% include list.html data="members" component="portrait" filters="role: pr" %}
+{% include list.html data="members" component="portrait" filters="role: tp" %}
+{% include list.html data="members" component="portrait" filters="role: art" %}
+{% include list.html data="members" component="portrait" filters="role: editor" %}
+{% include list.html data="members" component="portrait" filters="role: ^ea" %}
 
