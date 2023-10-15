@@ -17,14 +17,14 @@ footer-dark: false
 
 ## 成员总览
 
-{% include list.html data="members" component="portrait" filters="role: pl" %}
-{% include list.html data="members" component="portrait" filters="role: chjptl" %}
-{% include list.html data="members" component="portrait" filters="role: ^jptl" %}
-{% include list.html data="members" component="portrait" filters="role: pr" %}
-{% include list.html data="members" component="portrait" filters="role: tester" %}
-{% include list.html data="members" component="portrait" filters="role: art" %}
-{% include list.html data="members" component="portrait" filters="role: editor" %}
-{% include list.html data="members" component="portrait" filters="role: ^ea" %}
+{% include list.html data="members" component="portrait" filters="role: pl" style="small"  %}
+{% include list.html data="members" component="portrait" filters="role: chjptl" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ^jptl" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: pr" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: tester" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: art" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: editor" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: ^ea" style="small" %}
 
 {% include section.html %}
 
