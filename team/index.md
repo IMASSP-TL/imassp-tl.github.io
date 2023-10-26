@@ -38,6 +38,9 @@ footer-dark: false
 {% include portrait.html lookup="如月咏星" style="small" %}
 {% include portrait.html lookup="LankerCN" style="small" %}
 {% include portrait.html lookup="盐煎肘子" style="small" %}
+{% include portrait.html lookup="琥珀" style="small" %}
+{% include portrait.html lookup="油一桶" style="small" %}
+{% include portrait.html lookup="低级人灾" style="small" %}
 
 ### 程序&测试
 
