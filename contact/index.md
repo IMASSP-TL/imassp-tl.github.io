@@ -28,6 +28,7 @@ footer-dark: false
   5. 熟悉MIPS汇编，有ppsspp调试经验的二进制逆向Hacker
   6. 另外也招募能帮助游戏测试的朋友加入帮忙测试，愿意重复尝试不稳定的偶像大师SP游戏，以及游戏分支覆盖 
      能够仔细发现测试版游戏中出现的问题并及时反馈或者系统自动化测试大佬
+- [偶像大师OFA汉化项目](https://imas-ofa.com)目前处于筹备立项状态，亦欢迎有能P加入
 
 {% include section.html %}
 
@@ -41,7 +42,7 @@ footer-dark: false
   include button.html
   type="link"
   text="QQ群号"
-  tooltip="暂停公开"
+  tooltip="826305028"
 %}
 {%
   include button.html

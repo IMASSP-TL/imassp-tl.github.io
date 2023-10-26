@@ -55,7 +55,7 @@ footer-dark: false
   include button.html
   type="link"
   text="QQ群号"
-  tooltip="暂停公开"
+  tooltip="826305028"
 %}
 {%
   include button.html
