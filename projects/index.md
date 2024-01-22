@@ -28,11 +28,6 @@ gantt
     dateFormat  X
     axisFormat %s%%
 
-gantt
-    title 　
-    dateFormat  X
-    axisFormat %s%%
-
     section 主线剧情
     完美之日 289/409 : ps,0,70
     惊奇之星 272/404 : ws,0,67
