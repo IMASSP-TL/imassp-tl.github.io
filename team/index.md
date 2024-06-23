@@ -42,6 +42,7 @@ footer-dark: false
 {% include portrait.html lookup="低级人灾" style="small" %}
 {% include portrait.html lookup="琥珀" style="small" %}
 {% include portrait.html lookup="梦违宇佐见" style="small" %}
+{% include portrait.html lookup="史大林小同志" style="small" %}
 
 ### 程序&测试
 
