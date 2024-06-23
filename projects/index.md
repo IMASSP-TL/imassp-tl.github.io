@@ -29,8 +29,8 @@ gantt
     axisFormat %s%%
 
     section 主线剧情
-    完美之日 383/409 : ps,0,93
-    惊奇之星 295/404 : ws,0,73
+    完美之日 387/409 : ps,0,94
+    惊奇之星 338/404 : ws,0,73
     思念之月 272/404 : mm,0,68
     section Fan's Mail
     天海春香 20/20 : done,har,0,100
@@ -49,7 +49,7 @@ gantt
     staff's mail 28/28 : done,sm,0,100
     section DLC Items
     歌曲服饰 157/162 : di,0,96
-    广播剧 8/11 : drama,0,72
+    广播剧 9/11 : drama,0,81
     section DLC Mail
     天海春香 137/137 : done,har,0,100
     如月千早 137/137 : done,chi,0,100
@@ -57,8 +57,8 @@ gantt
     水濑伊织 137/137 : done,ior,0,100
     高槻弥生 137/137 : done,yay,0,100
     三浦梓 0/137 : azu,0,1
-    菊地真 0/137 : mak,0,1
-    双海亚美&真美 0/147 : mam,0,1
+    菊地真 137/137 : mak,0,1
+    双海亚美&真美 43/147 : mam,0,29
     秋月律子 0/20 : rit,0,1
     section 总体进度
     天海春香 100% : done,har,0,100
@@ -67,12 +67,12 @@ gantt
     水濑伊织 100% : ior,0,100
     高槻弥生 100% : yay,0,100
     三浦梓 78% : azu,0,78
-    菊地真 65% : mak,0,65
-    双海亚美&真美 15% : mam,0,15
+    菊地真 90% : mak,0,90
+    双海亚美&真美 27% : mam,0,27
     秋月律子 0% : rit,0,1
-    星井美希 85% : mik,0,85
-    四条贵音 85% : tak,0,85
-    我那霸响 85% : hib,0,85
+    星井美希 90% : mik,0,90
+    四条贵音 90% : tak,0,90
+    我那霸响 95% : hib,0,95
 ```
 
 {% include tags.html tags="publication, resource, website" %}
