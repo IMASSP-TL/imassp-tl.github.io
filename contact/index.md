@@ -47,14 +47,14 @@ footer-dark: false
 {%
   include button.html
   type="email"
-  text="waldenth@outlook.com"
-  link="waldenth@outlook.com"
+  text="aaron@imas-sp.com"
+  link="aaron@imas-sp.com"
 %}
 {%
   include button.html
   type="link"
   text="QQ群号"
-  tooltip="826305028"
+  tooltip="591676099"
 %}
 {%
   include button.html
