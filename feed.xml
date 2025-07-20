@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-07-19T16:50:10+00:00</updated><id>/feed.xml</id><title type="html">偶像大师SP汉化组</title><subtitle>偶像大师SP汉化</subtitle><entry><title type="html">偶像大师SP-惊奇之星 雪步线</title><link href="/2023/12/24/Yukiho.html" rel="alternate" type="text/html" title="偶像大师SP-惊奇之星 雪步线" /><published>2023-12-24T00:00:00+00:00</published><updated>2025-07-19T16:49:28+00:00</updated><id>/2023/12/24/Yukiho</id><content type="html" xml:base="/2023/12/24/Yukiho.html"><![CDATA[<p>偶像大师SP-惊奇之星 萩原雪步线 汉化 ver0.1</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-07-20T03:45:58+00:00</updated><id>/feed.xml</id><title type="html">偶像大师SP汉化组</title><subtitle>偶像大师SP汉化</subtitle><entry><title type="html">偶像大师SP-惊奇之星</title><link href="/2023/12/24/Yukiho.html" rel="alternate" type="text/html" title="偶像大师SP-惊奇之星" /><published>2023-12-24T00:00:00+00:00</published><updated>2025-07-20T03:45:25+00:00</updated><id>/2023/12/24/Yukiho</id><content type="html" xml:base="/2023/12/24/Yukiho.html"><![CDATA[<p>偶像大师SP-惊奇之星 汉化 ver0.1</p>
 
 <h2 id="汉化说明">汉化说明</h2>
 
 <ul>
   <li>汉化惊奇之星全部共通线对话</li>
-  <li>汉化萩原雪步线全部对话</li>
+  <li>汉化萩原雪步线、水濑伊织线、双子线</li>
   <li>汉化全部四条贵音剧情</li>
   <li>汉化90%以上系统UI和游戏内说明型文字信息</li>
-  <li>汉化全部萩原雪步粉丝信件，工作人员和社长信件</li>
-  <li>汉化全部萩原雪步DLC Mail</li>
+  <li>汉化全部萩原雪步、水濑伊织粉丝信件，工作人员和社长信件</li>
+  <li>汉化全部萩原雪步、水濑伊织DLC Mail</li>
   <li>针对性汉化歌词训练和表情训练课程</li>
   <li>补充性汉化DLC非REMIX歌曲介绍</li>
   <li>目前版本还未做完整校对，以展示为主</li>
@@ -33,16 +33,16 @@
 
 <h3 id="文件sha1哈希">文件SHA1哈希</h3>
 
-<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-惊奇之星 萩原雪步线 汉化 ver0.1]]></summary></entry><entry><title type="html">偶像大师SP-完美之日 春香线</title><link href="/2023/04/03/Haruka.html" rel="alternate" type="text/html" title="偶像大师SP-完美之日 春香线" /><published>2023-04-03T00:00:00+00:00</published><updated>2025-07-19T16:49:28+00:00</updated><id>/2023/04/03/Haruka</id><content type="html" xml:base="/2023/04/03/Haruka.html"><![CDATA[<p>偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1-BETA</p>
+<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-惊奇之星 汉化 ver0.1]]></summary></entry><entry><title type="html">偶像大师SP-完美之日</title><link href="/2023/04/03/Haruka.html" rel="alternate" type="text/html" title="偶像大师SP-完美之日" /><published>2023-04-03T00:00:00+00:00</published><updated>2025-07-20T03:45:25+00:00</updated><id>/2023/04/03/Haruka</id><content type="html" xml:base="/2023/04/03/Haruka.html"><![CDATA[<p>偶像大师SP-完美之日 汉化 ver0.1.1-BETA</p>
 
 <h2 id="汉化说明">汉化说明</h2>
 
 <ul>
   <li>汉化完美之日全部共通线对话</li>
-  <li>汉化天海春香线95%以上对话</li>
+  <li>汉化天海春香线、菊地真线、高槻弥生线</li>
   <li>汉化90%以上系统UI和游戏内说明型文字信息</li>
-  <li>汉化全部天海春香粉丝信件，工作人员和社长信件</li>
-  <li>汉化全部天海春香DLC Mail</li>
+  <li>汉化全部天海春香、菊地真、高槻弥生粉丝信件，工作人员和社长信件</li>
+  <li>汉化全部天海春香、菊地真、高槻弥生DLC Mail</li>
   <li>针对性汉化歌词训练和表情训练课程</li>
   <li>补充性汉化DLC非REMIX歌曲介绍</li>
   <li>目前版本还未做完整校对，以展示为主</li>
@@ -89,13 +89,13 @@
 
 <h3 id="文件sha1哈希">文件SHA1哈希</h3>
 
-<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1-BETA]]></summary></entry><entry><title type="html">偶像大师SP-思念之月 千早线</title><link href="/2023/02/25/Chihaya.html" rel="alternate" type="text/html" title="偶像大师SP-思念之月 千早线" /><published>2023-02-25T00:00:00+00:00</published><updated>2025-07-19T16:49:28+00:00</updated><id>/2023/02/25/Chihaya</id><content type="html" xml:base="/2023/02/25/Chihaya.html"><![CDATA[<p>偶像大师SP-思念之月 如月千早线 汉化 ver0.1</p>
+<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-完美之日 汉化 ver0.1.1-BETA]]></summary></entry><entry><title type="html">偶像大师SP-思念之月</title><link href="/2023/02/25/Chihaya.html" rel="alternate" type="text/html" title="偶像大师SP-思念之月" /><published>2023-02-25T00:00:00+00:00</published><updated>2025-07-20T03:45:25+00:00</updated><id>/2023/02/25/Chihaya</id><content type="html" xml:base="/2023/02/25/Chihaya.html"><![CDATA[<p>偶像大师SP-思念之月 汉化 ver0.1</p>
 
 <h2 id="汉化说明">汉化说明</h2>
 
 <ul>
   <li>汉化思念之月全部共通线对话</li>
-  <li>汉化如月千早线全部对话</li>
+  <li>汉化如月千早线、三浦梓线</li>
   <li>汉化全部星井美希剧情</li>
   <li>汉化90%以上系统UI和游戏内说明型文字信息</li>
   <li>汉化全部如月千早粉丝信件，工作人员和社长信件</li>
@@ -124,7 +124,7 @@
 
 <h3 id="文件sha1哈希">文件SHA1哈希</h3>
 
-<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-思念之月 如月千早线 汉化 ver0.1]]></summary></entry><entry><title type="html">偶像大师SP-DLC</title><link href="/2023/02/02/DLC.html" rel="alternate" type="text/html" title="偶像大师SP-DLC" /><published>2023-02-02T00:00:00+00:00</published><updated>2025-07-19T16:49:28+00:00</updated><id>/2023/02/02/DLC</id><content type="html" xml:base="/2023/02/02/DLC.html"><![CDATA[<p>偶像大师SP-DLC内容 汉化</p>
+<p>NULL</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-思念之月 汉化 ver0.1]]></summary></entry><entry><title type="html">偶像大师SP-DLC</title><link href="/2023/02/02/DLC.html" rel="alternate" type="text/html" title="偶像大师SP-DLC" /><published>2023-02-02T00:00:00+00:00</published><updated>2025-07-20T03:45:25+00:00</updated><id>/2023/02/02/DLC</id><content type="html" xml:base="/2023/02/02/DLC.html"><![CDATA[<p>偶像大师SP-DLC内容 汉化</p>
 
 <h2 id="汉化说明">汉化说明</h2>
 
