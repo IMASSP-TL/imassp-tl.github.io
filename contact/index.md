@@ -40,15 +40,15 @@ footer-dark: false
 
 ### 其他
 
-- [偶像大师OFA汉化项目](https://imas-ofa.com)目前处于筹备立项状态，亦欢迎有能P加入
+- [偶像大师OFA汉化项目](https://ofa.idolmaster.top)目前处于筹备立项状态，亦欢迎有能P加入
 
 {% include section.html %}
 
 {%
   include button.html
   type="email"
-  text="aaron@imas-sp.com"
-  link="aaron@imas-sp.com"
+  text="aaron@idolmaster.top"
+  link="aaron@idolmaster.top"
 %}
 {%
   include button.html
