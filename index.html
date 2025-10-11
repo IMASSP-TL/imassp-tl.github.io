@@ -624,6 +624,9 @@
 </footer>
 <script>
 (function() {
+  // 如果本会话已关闭过提示，则不再显示
+  if (sessionStorage.getItem('domainNoticeClosed')) return;
+
   // 创建提示条容器
   const div = document.createElement('div');
   div.id = 'domain-notice';
@@ -632,16 +635,17 @@
     <div class="domain-notice-inner">
       <p>
         提示：本站域名已由 
-        <a href="https://imas-sp.com" target="_blank" style="color:#ffd700;text-decoration:underline;">imas-sp.com</a>  
+        <a href="https://imas-sp.com" target="_blank" style="color:#ffd700;text-decoration:underline;">imas-sp.com</a>
         迁移至 
-        <a href="https://sp.idolmaster.top" target="_blank" style="color:#ffd700;text-decoration:underline;">sp.idolmaster.top</a>。请更新您的书签。
+        <a href="https://sp.idolmaster.top" target="_blank" style="color:#ffd700;text-decoration:underline;">sp.idolmaster.top</a>。
+        请更新您的书签。
       </p>
       <button id="close-domain-notice">我知道了</button>
     </div>
   `;
   document.body.appendChild(div);
 
-  // 样式（含过渡）
+  // 样式
   const style = document.createElement('style');
   style.innerHTML = `
     #domain-notice {
@@ -700,7 +704,6 @@
   });
 
   // 隐藏函数
-  let hideTimer = null;
   function hide(immediate = false) {
     const inner = document.querySelector('.domain-notice-inner');
     if (!inner) return;
@@ -709,20 +712,15 @@
     }
     inner.style.transform = 'translateY(120%)';
     inner.style.opacity = '0';
-    clearTimeout(hideTimer);
     setTimeout(() => {
       const container = document.getElementById('domain-notice');
       if (container) container.remove();
     }, 320);
   }
 
-  // 自动 3 秒隐藏
-  const autoHideTimeout = 3000;
-  hideTimer = setTimeout(() => hide(false), autoHideTimeout);
-
-  // 点击按钮立即隐藏
+  // 点击“我知道了”关闭提示，并标记为已关闭（仅当前会话）
   document.getElementById('close-domain-notice').addEventListener('click', () => {
-    clearTimeout(hideTimer);
+    sessionStorage.setItem('domainNoticeClosed', '1');
     hide(true);
   });
 
