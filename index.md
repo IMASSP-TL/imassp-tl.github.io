@@ -20,6 +20,12 @@ redirect_from:
 
 {% include section.html %}
 
+## News
+
+- 偶像大师2已发布汉化补丁，[点击前往下载](https://2nd.idolmaster.top/2026/07/30/PatchTutorial.html)
+
+- OFA全DLC汉化6月校对版已发布，[点击前往下载](https://ofa.idolmaster.top/2023/12/12/PatchTutorial.html)！
+
 ## 进度
 
 {% capture text %}
