@@ -14,7 +14,7 @@ redirect_from:
 
 # 偶像大师SP 简体中文汉化项目
 
-《偶像大师 SP》（日语：アイドルマスターエスピー，英语：THE IDOLM@STER SP）是南梦宫（Namco）于2009年2月19日发售的PSP游戏。游戏内容基本上和街机版相同，但亦有不同之处。游戏有Perfect Sun（完美之日）、Missing Moon（思念之月）和Wondering Star（惊奇之星）三个版本。
+《偶像大师 SP》（日语：アイドルマスターエスピー，英语：THE IDOLM@STER SP）是南梦宫（Namco）于2009年2月19日发售的PSP游戏。游戏内容基本上和街机版相同，但亦有不同之处。游戏有Perfect Sun（完美之日，简称日碟）、Missing Moon（思念之月，简称月碟）和Wandering Star（惊奇之星，又称漫游之星或迷走之星，简称星碟）三个版本。
 
 本网站为《偶像大师 SP》简体中文汉化组项目主页。
 
